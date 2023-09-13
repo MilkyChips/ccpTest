@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-
+int calculator(int& , int& , char );
 
 int calculator(int &c, int &d, char e) {
 
@@ -51,4 +51,3 @@ int main()
 	return 0;
 }
 
-int calculator(int& c, int& d, char e);
